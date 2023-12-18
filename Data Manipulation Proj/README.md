@@ -3,7 +3,7 @@ Date: 11/30/2023
 Class: COMP163-001
 Description: Navigate the 23-24 lakers roster to find information on specific players and statistics
 
-Command list: 
+# Command list: 
 - show player names
 - show player ages
 - show player positions
